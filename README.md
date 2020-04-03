@@ -1,2 +1,2 @@
 # IIC
-STM32IO口模拟实现IIC通信
+STM32F013使用IO口模拟实现IIC通信
